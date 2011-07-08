@@ -1,5 +1,5 @@
 var express = require("express");
-var numbers = require("numbers.js");
+var numbers = require("./numbers");
 
 var sumNumbers = function(limit) {
     var sum = 0;

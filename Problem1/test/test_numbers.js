@@ -1,4 +1,4 @@
-var numbers = require("../src/numbers.js");
+var numbers = require("../src/numbers");
 
 exports["Test multiples of 3"]  = function(test) {
 	test.expect(3);
