@@ -1,7 +1,4 @@
 (function() {
-	var console = require("console");
-	console.log("Start numbers lib");
-
     var sumDigits = function(value) {
         var sum = 0;
         while (value > 0) {
